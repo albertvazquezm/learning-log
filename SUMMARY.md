@@ -10,6 +10,6 @@
 
 ## React
 
-* [How to organize components](react/how-to-organize-components.md)
+* [Organizing components](react/how-to-organize-components.md)
 * [Naming conventions](react/naming-conventions.md)
 

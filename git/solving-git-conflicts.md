@@ -1,0 +1,6 @@
+# Solving Git conflicts
+
+## 
+
+
+

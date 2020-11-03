@@ -1,8 +1,15 @@
 # Table of contents
 
-* [This is what I learned](README.md)
+* [Summary](README.md)
 
-## HTML5
+## Git
 
-* [Media \(Audio & Video\)](html5/media-audio-and-video.md)
+* [Basic concepts](git/basic-concepts.md)
+* [Base commands](git/base-commands.md)
+* [Solving Git conflicts](git/solving-git-conflicts.md)
+
+## React
+
+* [How to organize components](react/how-to-organize-components.md)
+* [Naming conventions](react/naming-conventions.md)
 

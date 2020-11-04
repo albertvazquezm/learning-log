@@ -6,6 +6,8 @@ description: This are the most basic commands for working with Git
 
 ## Fetch
 
+
+
 This will synchronize my local branches with the remote ones
 
 ```text
